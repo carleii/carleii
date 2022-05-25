@@ -1,4 +1,4 @@
-### Bienvenue ```${tonNomEstIci.promis}```, je suis Carleii dev
+### Bienvenue, je suis Carleii dev
 
 ### Je vis à Yaounde en Centre ville et je suis développeur web.
 
@@ -21,6 +21,7 @@ function God() {
  return console.log("Sorry, i can do nothing for you.");
 }
 ```
+
 
 *Sorry, i can do nothing for you.*
 
