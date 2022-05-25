@@ -3,7 +3,7 @@
 ### Je vis à Yaounde en Centre ville et je suis développeur web.
 
 <p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
+  <img align="center" width="60%" alt="GIF" src="https://www.drapeaux-shop.com/Gif-Anime/Drapeaux-Gifs/Drapeau-Cameroun_240-gif.gif"/>
 </p>
 
 ### Pourquoi développeur web et pas astronaute ?
@@ -21,8 +21,6 @@ function God() {
  return console.log("Sorry, i can do nothing for you.");
 }
 ```
-
-<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
 
 *Sorry, i can do nothing for you.*
 
