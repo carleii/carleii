@@ -1,6 +1,13 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carleii&theme=radical)
+For Statistics:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carleii&count_private=true&show_icons=true&theme=radical)
+ 
+For Top Languages:
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carleii&show_icons=true&theme=radical)
+ 
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/carleii?style=social">  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CarleDev?style=social">  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/carleii?style=social">  
 
+ 
 ### Bienvenue, je suis Carleii dev
 
 ### Je vis à Yaounde en Centre ville et je suis développeur web.
