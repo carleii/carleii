@@ -6,16 +6,16 @@
  
 ### Bienvenue, je suis Carleii dev
 
-### Je vis à Yaounde en Centre ville et je suis développeur web.
+### Je vis en Namibie et je suis développeur Backend PhP.
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://www.drapeaux-shop.com/Gif-Anime/Drapeaux-Gifs/Drapeau-Cameroun_240-gif.gif"/>
 </p>
 
-### Pourquoi développeur web et pas astronaute ?
+### Pourquoi développeur Backend et pas astronaute ?
 
-J'ai rapidement été attiré par le développement web et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers le web un mélange de **programmation** et
-de **design** deux éléments qui m'intéressent **grandement.**
+J'ai rapidement été attiré par le code et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers la programmation un mélange de **d'imagination** et
+de **nerf en acier** deux éléments qui me vont à **moitié.**
 
 ### Etude MIT, Harvard ?
 ```javascript
