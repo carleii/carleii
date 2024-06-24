@@ -6,7 +6,7 @@
  
 ### Bienvenue, je suis Carleii dev
 
-### Je vis en Namibie et je suis développeur Backend PhP.
+### Je suis citoyen du monde et développeur Backend.
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://www.drapeaux-shop.com/Gif-Anime/Drapeaux-Gifs/Drapeau-Cameroun_240-gif.gif"/>
